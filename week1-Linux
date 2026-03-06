@@ -1,1 +1,3 @@
-
+when we talk about linux, first we need to understart about the kernal and system information that is very useful in working and troubleshooting any issue.
+here is the command to get the kernal and system information.
+**uname -a**
